@@ -1,0 +1,57 @@
+.modal {
+	overflow-y: scroll !important;
+}
+
+label {
+	font-weight: normal;
+}
+
+.dropcap-cca {
+	float: left;
+	color: #fff;
+	padding: 7px 0;
+	min-width: 25px;
+	font-size: 16px;
+	font-weight: 200;
+	line-height: 10px;
+	text-align: center;
+	background: #72c02c;
+	margin: 4px 10px 0 0;
+}
+
+dl {
+	margin: 0px;
+}
+
+dl.row:nth-child(odd) {
+	background: white;
+} 
+dl.row:nth-child(even) {
+	background: #eee;
+}
+dt, dd {
+	margin: 0px 0px;
+	padding: 3px 0px;
+}
+
+.modal-content {
+	padding-left: 5px;
+	padding-right: 5px; 
+}
+
+.ccaNoUnderline {
+	text-decoration: none !important;
+}
+.sky-form footer.ccaFooter {
+	padding-left: 0px;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+	padding-left: 4px !important;
+}
+table.dataTable tfoot th, table.dataTable tfoot td {
+	padding-left: 4px !important;
+}
+#suspect_list-grid a {
+	color: #3498db !important;
+}
